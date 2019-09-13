@@ -6,4 +6,4 @@
 #pip install ffmpeg
 #*make executable
 pip install pyinstaller(pyisntaller it is not cross platform,so it needs to be compile on the system that is goin to be used)
-# CREDIT TO: https://ytdl-org.github.io/youtube-dl/index.html
+# CREDITS TO: https://ytdl-org.github.io/youtube-dl/index.html
